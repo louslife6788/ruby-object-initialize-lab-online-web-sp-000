@@ -1,4 +1,4 @@
 class Person
   def initailize(var )
-    @name = var 
+    @name = var
   end 
