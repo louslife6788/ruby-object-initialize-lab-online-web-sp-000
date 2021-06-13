@@ -1,5 +1,5 @@
 class Person
-  def initailize(var )
+  def initialize(var )
     @name = var
   end
 end
